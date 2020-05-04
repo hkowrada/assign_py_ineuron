@@ -4,3 +4,9 @@ This assignment will help you to consolidate the concepts learnt in the session.
 Task 1:
 1.
 Install Jupyter notebook and run the first program and share the screenshot of the output.
+
+Answer: print('Hello world')
+        a = int(input('enter A value:'))
+        b = int(input('enter B value:'))
+
+        print('addition of A and B:', a+b)
